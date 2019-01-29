@@ -6,4 +6,4 @@ To run this first install mysql and inquirer (npm install " ") in terminal. Then
 
 Afterwards follow the prompts in the terminal console to "order" from the server and see the quantity update automatically with each purchase!
 
-This app uses node.js and mysql!
+This app uses node.js for the funcitonality and mysql for the database
